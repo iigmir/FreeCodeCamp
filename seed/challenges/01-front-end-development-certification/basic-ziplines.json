@@ -211,6 +211,17 @@
         "Recuerda utilizar <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>Leer-Buscar-Preguntar</a> si te sientes atascado.",
         "Cuando hayas terminado, pulsa el botón \"I've completed this challenge\" e incluye un link a tu CodePen. ",
         "Puedes obtener retroalimentación sobre tu proyecto por parte de otros campistas, compartiéndolo en nuestra <a href='//gitter.im/freecodecamp/codereview' target='_blank'>Sala de chat para revisión de código</a>. También puedes compartirlo en Twitter y en el campamento de tu ciudad (en Facebook)."
+      ],
+      "titleTw": "建立一個紀念頁面",
+      "descriptionTw": [
+        "<strong>目標：</strong>在 <a href='http://codepen.io' target='_blank'>CodePen.io</a> 建立一個與 <a href='http://codepen.io/FreeCodeCamp/full/wMQrXV' target='_blank'>http://codepen.io/FreeCodeCamp/full/wMQrXV</a> 這個頁面功能類似的程式。",
+        "<strong>規則一：</strong>不要去看範例專案的程式碼。請自己去找辦法。",
+        "<strong>規則二：</strong>滿足以下的<a href='https://zh.wikipedia.org/zh-tw/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B' target='_blank'>用戶故事</a>。你可以用任何的需要用到的函式庫來完成。請展現你的個人風格。",
+        "<strong>用戶故事：</strong>我可以看到一張有文有圖的紀念頁面。",
+        "<strong>用戶故事：</strong>我可以點一個與該主題相關的外部網站連結，以獲取更多訊息。",
+        "記住當你卡關時，要<a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>「閱讀、搜尋、詢問」</a>。",
+        "如果你做完了，點一下「I've completed this challenge」按鈕，並附上你 CodePen 的連結。",
+        "你可以在我們的 <a href='//gitter.im/freecodecamp/codereview' target='_blank'>Code Review 聊天室</a>分享你的專案，以獲得學員們的反饋。你也可以在 Twitter 或是 Facebook 裡面，當地城市的 Campsite 分享。"
       ]
     },
     {
@@ -269,6 +280,22 @@
         "Recuerda utilizar <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>Leer-Buscar-Preguntar</a> si te sientes atascado.",
         "Cuando hayas terminado, pulsa el botón \"I've completed this challenge\" e incluye un link a tu CodePen. ",
         "Puedes obtener retroalimentación sobre tu proyecto por parte de otros campistas, compartiéndolo en nuestra <a href='//gitter.im/freecodecamp/codereview' target='_blank'>Sala de chat para revisión de código</a>. También puedes compartirlo en Twitter y en el campamento de tu ciudad (en Facebook)."
+      ],
+      "titleTw": "建立你的個人檔案",
+      "descriptionTw": [
+        "<strong>目標：</strong>在 <a href='http://codepen.io' target='_blank'>CodePen.io</a> 建立一個與 <a href='http://codepen.io/hallaathrad/full/vNEPpL' target='_blank'>http://codepen.io/hallaathrad/full/vNEPpL</a> 這個頁面功能類似的程式。",
+        "<strong>規則一：</strong>不要去看範例專案的程式碼。請自己去找辦法。",
+        "<strong>規則二：</strong>滿足以下的<a href='https://zh.wikipedia.org/zh-tw/%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B' target='_blank'>用戶故事</a>。你可以用任何的需要用到的函式庫來完成。請展現你的個人風格。",
+        "<strong>用戶故事：</strong> I can access all of the portfolio webpage's content just by scrolling.",
+        "<strong>用戶故事：</strong> I can click different buttons that will take me to the portfolio creator's different social media pages.",
+        "<strong>用戶故事：</strong> I can see thumbnail images of different projects the portfolio creator has built (if you haven't built any websites before, use placeholders.)",
+        "<strong>用戶故事：</strong> I navigate to different sections of the webpage by clicking buttons in the navigation.",
+        "Don't worry if you don't have anything to showcase on your portfolio yet - you will build several apps on the next few CodePen challenges, and can come back and update your portfolio later.",
+        "There are many great portfolio templates out there, but for this challenge, you'll need to build a portfolio page yourself. Using Bootstrap will make this much easier for you.",
+        "Note that CodePen.io overrides the Window.open() function, so if you want to open windows using jQuery, you will need to target invisible anchor elements like this one: <code>&lt;a target='_blank'&gt;</a></code>.",
+        "記住當你卡關時，要<a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>「閱讀、搜尋、詢問」</a>。",
+        "如果你做完了，點一下「I've completed this challenge」按鈕，並附上你 CodePen 的連結。",
+        "你可以在我們的 <a href='//gitter.im/freecodecamp/codereview' target='_blank'>Code Review 聊天室</a>分享你的專案，以獲得學員們的反饋。你也可以在 Twitter 或是 Facebook 裡面，當地城市的 Campsite 分享。"
       ]
     }
   ]
