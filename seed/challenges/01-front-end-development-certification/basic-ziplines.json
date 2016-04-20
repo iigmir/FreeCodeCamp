@@ -127,6 +127,46 @@
           "Pulsa el engrane en la esquina superior izquierda de la ventana de CSS, luego ve hacia abajo hasta donde dice \"Quick add\" y elige Bootstrap. Ahora dale a tu elemento h1 la clase \"text-primary\" para cambiar su color y verificar que Bootstrap está activado.",
           ""
         ]
+      ],
+      
+      "titleTw": "準備迎接我們的前端專案",
+      "descriptionTw": [
+        [
+          "//i.imgur.com/OAD6SJz.png",
+          "我們的前端專案之一 Simon game 的截圖。",
+          "我們的前端專案，會讓你使用廣受歡迎的線上編輯器 CodePen 來實做到目前為止所學會的前端技能。",
+          ""
+        ],
+        [
+          "//i.imgur.com/WBetuBa.jpg",
+          "一位飽受挫折、揍了筆電螢幕一拳的程式設計師。",
+          "這些專案都很難，多數學員建置每個專案都花了好幾天。你會感到挫折，但不要放棄。透過練習實做，事情會簡單些。",
+          ""
+        ],
+        [
+          "//i.imgur.com/p2TpOQd.jpg",
+          "一隻可愛的小狗跳過欄杆，對你拋媚眼並伸出爪子。",
+          "如果你卡關了，就試試「閱讀、搜尋、詢問」法。不要擔心──你行的。",
+          ""
+        ],
+        [
+          "//i.imgur.com/G1saeDt.gif",
+          "一張如何建立 Codepen 帳號的 gif",
+          "為了建立前端專案，我們會使用廣受歡迎的線上編輯器 CodePen。點擊下面的「Open link in new tab」開啟 CodePen 的註冊畫面。填好資料後點擊「Sign up」。 <br><div class=\"small\">注意：如果你已經有 CodePen 的帳號，你可以點擊「Open link in new tab」後，關掉開啟的新頁面，並直接點「go to my next step」。我們把「skip step」按鈕取消掉的理由，是因為很多人會直接點這個按鈕，並省略掉一些重要的步驟。</div>",
+          "http://codepen.io/signup/free"
+        ],
+        [
+          "//i.imgur.com/U4y9RJ1.gif",
+          "一張告訴你輸入「hello world」以後，會在預覽視窗顯示「hello world」的 gif。你可以透過拖拉來調整視窗的大小，也可以改變視窗的方向。",
+          "在 HTML 方塊中,建立一個含有「Hello World」文字的 h1 元件吧。你可以拖拉框框來調整方塊的大小，也可以點擊「Change View」的按鈕改變框框的排版方向。",
+          ""
+        ],
+        [
+          "//i.imgur.com/G9KFQDL.gif",
+          "一張展示如何在你的 pen 裡面加入 Bootstrap 的 gif。",
+          "按下 CSS 方塊裡面，左上角的齒輪，再滾到下方的「Quick add」並選擇 Bootstrap。現在在你的 h1 元件增加一個「text-primary」的 class 以改變其顏色，並證明目前有在用 Bootstrap。",
+          ""
+        ]
       ]
     },
     {
