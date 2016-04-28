@@ -133,6 +133,14 @@
         "Puede que necesites convertir la cadena de texto en un arreglo antes de que puedas invertirla",
         "El resultado debe ser una cadena de texto",
         "Recuerda utilizar <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>Leer-Buscar-Preguntar</a> si te sientes atascado. Intenta programar en pareja. Escribe tu propio código."
+      ],
+      "titleTw": "字串反轉",
+      "descriptionTw": [
+        "反轉給定的字串。",
+        "你可能要在反轉字串以前，先把字串加到陣列裡面。",
+        "輸出結果必須是字串。",
+        "記住當你卡關時，要<a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>「閱讀、搜尋、詢問」</a>。自己的程式自己寫。"
+
       ]
     },
     {
@@ -175,6 +183,15 @@
         "Los factoriales son comúnmente representados con la notación <code>n!</code>",
         "Por ejemplo: <code>5! = 1 * 2 * 3 * 4 * 5 = 120</code>",
         "Recuerda utilizar <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>Leer-Buscar-Preguntar</a> si te sientes atascado. Intenta programar en pareja. Escribe tu propio código."
+      ],
+      "titleTw": "階乘化數字",
+      "descriptionTw": [
+        "針對給定的數字，回傳該數字的階乘。",
+        "假定一數字為 n，一個階乘就是所有小於或等於n的正整數的乘積。",
+        "階乘通常會被寫成 <code>n!</code>",
+        "例如： <code>5! = 1 * 2 * 3 * 4 * 5 = 120</code>",
+        "記住當你卡關時，要<a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>「閱讀、搜尋、詢問」</a>。自己的程式自己寫。"
+
       ]
     },
     {
@@ -227,6 +244,15 @@
         "Tendrás que quitar los caracteres no alfanuméricos (signos de puntuación, espacioes y símbolos) y transformar las letras a minúsculas para poder verificar si el texto es palíndromo.",
         "Te proveeremos textos en varios formatos, como \"racecar\", \"RaceCar\", and \"race CAR\" entre otros.",
         "Recuerda utilizar <a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>Leer-Buscar-Preguntar</a> si te sientes atascado. Intenta programar en pareja. Escribe tu propio código."
+      ],
+      "titleTw": "檢查迴文",
+      "descriptionTw": [
+        "如果給定的字串是迴文，回傳 <code>true</code>，否則回傳 <code>false</code>。",
+        "<dfn>迴文（palindrome）</dfn>，是指在忽略標點符號、大小寫和間距的情況下，正著拼和反著拼都相同的英文單字。",
+        "<strong>注意：</strong><br />為了要檢查迴文，你要移除<strong>所有非拉丁字母的字串</strong>（例如標點符號、大小寫和間距）並且讓這個字串全都小寫。",
+        "含有不同格式的字串，我們都要通過，例如<code>「racecar」</code>、<code>「RaceCar」</code>、還有<code>「race CAR」</code>……等等。",
+        "記住當你卡關時，要<a href='//github.com/FreeCodeCamp/freecodecamp/wiki/How-to-get-help-when-you-get-stuck' target='_blank'>「閱讀、搜尋、詢問」</a>。自己的程式自己寫。"
+
       ]
     },
     {
